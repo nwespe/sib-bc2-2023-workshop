@@ -1,0 +1,16 @@
+{
+    "title": "Analysis of Baby Names - SIB Workshop",
+    "upload_type": "publication",
+    "publication_type": "report",
+    "keywords": [
+      "R",
+      "quarto",
+      "tutorial"
+    ],
+    "creators": [
+      {
+        "name": "Nichole Wespe",
+        "affiliation": "Biozentrum, University of Basel"
+      } 
+    ]
+  }
