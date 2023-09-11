@@ -1,0 +1,21 @@
+---
+title: "sib-bc2-workshop"
+---
+
+:::: {layout="[ 50, 50 ]"}
+
+::: {#first-column}
+In this project we aim to visualize the trends of the most frequently used baby names from 1880 to 2017 in the United States. We do this by:
+
+- Understanding the different columns of the data set
+- Finding the top 10 most frequently used baby names in the data for:
+    - females
+    - males
+- Plotting the yearly trend of the top 10 baby names
+:::
+
+::: {#second-column}
+![](https://live.staticflickr.com/2810/33532433803_9aa8790d17_k.jpg){fig-alt="Babies" width=400 fig-align="right"}
+:::
+
+::::
